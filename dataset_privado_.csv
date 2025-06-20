@@ -1,0 +1,1001 @@
+Idade,Sexo,Estado_Civil,CEP,Escolaridade,Diagnostico,Renda
+62,Feminino,Casado,50677531,Superior Incompleto,Ansiedade Generalizada,10000-20000
+67,Feminino,Viúvo,50879423,Pós-Graduação,DPOC,1000-2000
+63,Outro,Viúvo,50609858,Superior Completo,Nenhum,2000-5000
+53,Feminino,Divorciado,50645913,Pós-Graduação,Diabetes Tipo 1,1000-2000
+73,Feminino,Solteiro,51045358,Ensino Fundamental,Asma,20000-50000
+55,Masculino,Solteiro,50090580,Superior Completo,Burnout,50000-100000
+37,Feminino,Divorciado,50037806,Superior Incompleto,Transtorno Bipolar,50000-100000
+71,Masculino,Solteiro,50405798,Superior Incompleto,Insuficiência Cardíaca,50000-100000
+82,Outro,Solteiro,50282557,Superior Completo,Enxaqueca Crônica,5000-10000
+36,Feminino,Divorciado,50724368,Superior Incompleto,Alergia Respiratória,5000-10000
+60,Feminino,Solteiro,50778120,Ensino Fundamental,Ansiedade Generalizada,50000-100000
+82,Outro,Viúvo,50843976,Superior Incompleto,Transtorno Bipolar,5000-10000
+22,Outro,Casado,50078041,Ensino Fundamental,Burnout,50000-100000
+68,Outro,Divorciado,50815671,Superior Incompleto,Osteoporose,50000-100000
+85,Feminino,Casado,50631025,Superior Incompleto,Transtorno Bipolar,1000-2000
+88,Masculino,Divorciado,50747974,Pós-Graduação,Artrite,50000-100000
+41,Outro,Casado,50276784,Pós-Graduação,Alergia Respiratória,2000-5000
+50,Outro,Solteiro,50753069,Ensino Médio,Diabetes Tipo 1,2000-5000
+37,Outro,Viúvo,50835938,Pós-Graduação,Insuficiência Cardíaca,1000-2000
+52,Outro,Viúvo,50223103,Pós-Graduação,Hipertensão,50000-100000
+55,Outro,Casado,50205866,Ensino Médio,Colesterol Alto,20000-50000
+54,Masculino,Solteiro,50725678,Superior Completo,Ansiedade Generalizada,50000-100000
+89,Outro,Divorciado,50426999,Superior Incompleto,Câncer de Pulmão,50000-100000
+90,Feminino,Divorciado,50950780,Superior Incompleto,Insuficiência Cardíaca,2000-5000
+85,Outro,Casado,50166765,Ensino Fundamental,DPOC,50000-100000
+39,Outro,Viúvo,50867038,Ensino Médio,Nenhum,2000-5000
+18,Masculino,Divorciado,50562157,Pós-Graduação,Esquizofrenia,10000-20000
+24,Outro,Casado,50600301,Pós-Graduação,Asma,5000-10000
+46,Outro,Solteiro,50465597,Pós-Graduação,Câncer de Próstata,5000-10000
+89,Feminino,Solteiro,50941502,Superior Completo,Artrite,10000-20000
+24,Feminino,Divorciado,50312101,Superior Completo,Hipertensão,2000-5000
+89,Masculino,Viúvo,50057380,Superior Completo,Ansiedade Generalizada,2000-5000
+52,Outro,Solteiro,50443122,Superior Incompleto,TDAH,1000-2000
+45,Masculino,Casado,50559876,Superior Incompleto,Asma,5000-10000
+58,Outro,Viúvo,50933436,Ensino Médio,Insuficiência Cardíaca,50000-100000
+82,Feminino,Casado,50543700,Superior Completo,Esquizofrenia,10000-20000
+90,Feminino,Solteiro,50456658,Superior Completo,Diabetes Tipo 1,1000-2000
+70,Masculino,Divorciado,50110963,Ensino Médio,Esquizofrenia,2000-5000
+87,Feminino,Solteiro,50169222,Pós-Graduação,Câncer de Próstata,10000-20000
+38,Outro,Divorciado,50130351,Ensino Médio,Insuficiência Cardíaca,2000-5000
+45,Masculino,Solteiro,50160358,Ensino Fundamental,Transtorno Bipolar,1000-2000
+65,Masculino,Divorciado,50834663,Superior Completo,Câncer de Mama,5000-10000
+82,Outro,Viúvo,50607123,Superior Incompleto,Câncer de Mama,50000-100000
+85,Outro,Viúvo,50952372,Ensino Médio,Insuficiência Cardíaca,10000-20000
+36,Masculino,Casado,50235095,Ensino Fundamental,Transtorno Bipolar,20000-50000
+30,Outro,Solteiro,50837589,Superior Incompleto,Osteoporose,50000-100000
+31,Masculino,Divorciado,50991892,Superior Completo,Câncer de Pulmão,50000-100000
+70,Feminino,Viúvo,50719750,Superior Completo,Esquizofrenia,10000-20000
+39,Outro,Viúvo,50262622,Superior Completo,Enxaqueca Crônica,5000-10000
+30,Masculino,Solteiro,50361067,Ensino Fundamental,Burnout,5000-10000
+45,Outro,Divorciado,50103685,Superior Incompleto,Colesterol Alto,10000-20000
+24,Feminino,Viúvo,50425573,Pós-Graduação,TEPT,2000-5000
+52,Feminino,Casado,50517302,Pós-Graduação,Alergia Respiratória,5000-10000
+49,Masculino,Casado,50414354,Superior Completo,Câncer de Mama,50000-100000
+54,Outro,Viúvo,50730138,Pós-Graduação,Câncer de Próstata,5000-10000
+48,Feminino,Solteiro,50173135,Superior Completo,DPOC,5000-10000
+51,Feminino,Viúvo,50025000,Pós-Graduação,DPOC,1000-2000
+40,Feminino,Casado,50947299,Pós-Graduação,Câncer de Pulmão,50000-100000
+67,Outro,Casado,50935076,Ensino Médio,Artrite,5000-10000
+34,Feminino,Divorciado,50959844,Ensino Fundamental,Transtorno Bipolar,2000-5000
+83,Masculino,Solteiro,50322860,Superior Completo,Obesidade,1000-2000
+44,Outro,Casado,50449408,Pós-Graduação,Colesterol Alto,5000-10000
+66,Masculino,Casado,50068468,Superior Incompleto,Burnout,1000-2000
+49,Outro,Casado,50083858,Ensino Fundamental,Insuficiência Cardíaca,5000-10000
+66,Feminino,Viúvo,50472661,Superior Completo,Insuficiência Cardíaca,2000-5000
+39,Masculino,Divorciado,51086263,Superior Completo,Obesidade,10000-20000
+66,Masculino,Casado,51026008,Superior Completo,Insuficiência Cardíaca,5000-10000
+51,Feminino,Divorciado,50018028,Ensino Médio,Depressão,5000-10000
+22,Outro,Divorciado,50005682,Pós-Graduação,Diabetes Tipo 1,20000-50000
+22,Masculino,Casado,50632080,Superior Completo,Osteoporose,1000-2000
+88,Masculino,Solteiro,50154610,Superior Completo,Esquizofrenia,2000-5000
+78,Masculino,Casado,50299664,Ensino Fundamental,Depressão,50000-100000
+64,Feminino,Viúvo,50047799,Superior Completo,Ansiedade Generalizada,20000-50000
+58,Masculino,Viúvo,50496513,Pós-Graduação,Depressão,5000-10000
+48,Masculino,Viúvo,50128133,Ensino Fundamental,TEPT,10000-20000
+42,Masculino,Solteiro,50436289,Pós-Graduação,Burnout,1000-2000
+27,Masculino,Viúvo,51013413,Superior Completo,Transtorno Bipolar,50000-100000
+54,Masculino,Casado,51002885,Superior Incompleto,TEPT,50000-100000
+61,Outro,Divorciado,50005181,Superior Incompleto,Artrite,50000-100000
+18,Feminino,Viúvo,50411878,Pós-Graduação,Enxaqueca Crônica,50000-100000
+23,Feminino,Solteiro,50250765,Superior Completo,Alergia Respiratória,10000-20000
+28,Outro,Viúvo,50279224,Superior Incompleto,Ansiedade Generalizada,1000-2000
+39,Outro,Divorciado,50181136,Pós-Graduação,Transtorno Bipolar,1000-2000
+60,Masculino,Solteiro,50321983,Ensino Médio,Depressão,1000-2000
+41,Feminino,Casado,50841718,Superior Incompleto,Nenhum,2000-5000
+90,Masculino,Solteiro,50963093,Pós-Graduação,Transtorno Bipolar,2000-5000
+83,Masculino,Divorciado,50861131,Pós-Graduação,Câncer de Pulmão,10000-20000
+49,Outro,Casado,50558907,Ensino Fundamental,DPOC,20000-50000
+34,Feminino,Solteiro,50117985,Ensino Médio,Câncer de Mama,50000-100000
+83,Masculino,Solteiro,50969983,Pós-Graduação,Câncer de Mama,1000-2000
+75,Masculino,Casado,50362123,Superior Completo,Câncer de Mama,20000-50000
+36,Masculino,Divorciado,50341286,Superior Incompleto,Nenhum,10000-20000
+21,Masculino,Casado,50498782,Ensino Médio,Câncer de Pulmão,2000-5000
+76,Masculino,Casado,50963268,Ensino Fundamental,Insuficiência Cardíaca,20000-50000
+83,Outro,Casado,50426824,Ensino Médio,Diabetes Tipo 1,5000-10000
+44,Feminino,Divorciado,50702800,Superior Completo,Obesidade,1000-2000
+45,Masculino,Casado,50821545,Superior Completo,Artrite,10000-20000
+88,Feminino,Casado,50030779,Superior Completo,Artrite,50000-100000
+33,Outro,Solteiro,50508442,Superior Completo,DPOC,1000-2000
+85,Feminino,Viúvo,50362846,Superior Incompleto,Nenhum,1000-2000
+32,Masculino,Casado,50321352,Pós-Graduação,Artrite,10000-20000
+38,Outro,Solteiro,50447680,Superior Incompleto,Ansiedade Generalizada,1000-2000
+59,Feminino,Casado,50689732,Ensino Médio,Enxaqueca Crônica,5000-10000
+86,Masculino,Divorciado,50264453,Superior Incompleto,Esquizofrenia,5000-10000
+31,Masculino,Divorciado,50755723,Superior Completo,Insuficiência Cardíaca,50000-100000
+76,Feminino,Casado,50951875,Superior Completo,Hipertensão,5000-10000
+89,Outro,Solteiro,50193601,Superior Completo,Burnout,5000-10000
+59,Feminino,Solteiro,50248325,Ensino Fundamental,Depressão,1000-2000
+62,Masculino,Divorciado,50086046,Ensino Fundamental,Nenhum,10000-20000
+69,Feminino,Viúvo,50050239,Ensino Fundamental,Colesterol Alto,1000-2000
+74,Masculino,Viúvo,50749246,Pós-Graduação,Alergia Respiratória,1000-2000
+39,Outro,Casado,50688985,Superior Completo,DPOC,10000-20000
+23,Feminino,Viúvo,50819489,Ensino Médio,DPOC,5000-10000
+38,Feminino,Viúvo,50517908,Pós-Graduação,Obesidade,5000-10000
+88,Masculino,Viúvo,50261029,Ensino Médio,Câncer de Próstata,10000-20000
+65,Outro,Divorciado,50890903,Ensino Fundamental,TDAH,1000-2000
+39,Outro,Solteiro,50779666,Superior Completo,Enxaqueca Crônica,5000-10000
+34,Feminino,Solteiro,50234899,Ensino Médio,Diabetes Tipo 2,50000-100000
+59,Masculino,Solteiro,50710500,Superior Incompleto,TEPT,5000-10000
+49,Feminino,Divorciado,50261192,Superior Completo,Osteoporose,10000-20000
+80,Masculino,Divorciado,50194776,Ensino Médio,Câncer de Pulmão,10000-20000
+53,Outro,Viúvo,50201644,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+29,Feminino,Casado,50263182,Ensino Fundamental,Alergia Respiratória,50000-100000
+67,Outro,Viúvo,50706399,Superior Incompleto,Diabetes Tipo 2,10000-20000
+61,Outro,Divorciado,50192906,Ensino Médio,Diabetes Tipo 1,2000-5000
+35,Outro,Viúvo,50620101,Ensino Médio,Câncer de Mama,10000-20000
+34,Feminino,Divorciado,50216847,Superior Completo,Nenhum,10000-20000
+54,Masculino,Casado,50312432,Superior Completo,Câncer de Mama,20000-50000
+44,Masculino,Casado,50377503,Superior Incompleto,Ansiedade Generalizada,20000-50000
+84,Masculino,Divorciado,50894251,Superior Incompleto,Ansiedade Generalizada,50000-100000
+37,Feminino,Divorciado,50172277,Superior Incompleto,Câncer de Mama,50000-100000
+44,Masculino,Casado,50035320,Pós-Graduação,TDAH,1000-2000
+65,Masculino,Solteiro,50729230,Ensino Médio,Asma,5000-10000
+58,Masculino,Solteiro,50763857,Superior Incompleto,Depressão,20000-50000
+45,Outro,Casado,50037566,Ensino Fundamental,Transtorno Bipolar,5000-10000
+48,Feminino,Viúvo,50567711,Ensino Médio,Asma,10000-20000
+33,Masculino,Viúvo,50918911,Superior Completo,DPOC,50000-100000
+52,Feminino,Divorciado,51056600,Ensino Fundamental,Enxaqueca Crônica,50000-100000
+77,Feminino,Viúvo,50945208,Superior Completo,Nenhum,5000-10000
+26,Masculino,Divorciado,50742276,Ensino Fundamental,Asma,20000-50000
+45,Feminino,Viúvo,50618071,Ensino Médio,Depressão,20000-50000
+74,Masculino,Viúvo,50320502,Superior Completo,Esquizofrenia,5000-10000
+59,Outro,Solteiro,50312577,Superior Incompleto,Obesidade,20000-50000
+61,Feminino,Divorciado,50606999,Superior Completo,Insuficiência Cardíaca,20000-50000
+60,Feminino,Divorciado,50638756,Superior Incompleto,Artrite,10000-20000
+74,Masculino,Casado,50036371,Superior Incompleto,Ansiedade Generalizada,2000-5000
+62,Masculino,Solteiro,50376652,Superior Incompleto,Obesidade,10000-20000
+21,Feminino,Divorciado,50535737,Superior Incompleto,Insuficiência Cardíaca,50000-100000
+86,Masculino,Casado,50421593,Superior Incompleto,Diabetes Tipo 1,50000-100000
+49,Masculino,Viúvo,50074616,Pós-Graduação,Ansiedade Generalizada,50000-100000
+83,Masculino,Solteiro,50592597,Ensino Médio,Esquizofrenia,20000-50000
+56,Masculino,Viúvo,50147772,Superior Completo,Depressão,20000-50000
+83,Masculino,Viúvo,50417882,Ensino Fundamental,Diabetes Tipo 1,10000-20000
+31,Masculino,Solteiro,50997336,Superior Completo,Ansiedade Generalizada,1000-2000
+69,Outro,Viúvo,50580849,Pós-Graduação,Depressão,1000-2000
+22,Feminino,Casado,51068985,Superior Incompleto,Burnout,5000-10000
+63,Feminino,Solteiro,51001669,Ensino Médio,Depressão,5000-10000
+19,Feminino,Solteiro,50425497,Ensino Fundamental,Obesidade,20000-50000
+78,Outro,Casado,50608809,Ensino Médio,Diabetes Tipo 2,20000-50000
+44,Masculino,Casado,50264185,Superior Incompleto,Insuficiência Cardíaca,1000-2000
+25,Feminino,Solteiro,50019051,Pós-Graduação,Alergia Respiratória,10000-20000
+33,Feminino,Divorciado,50664194,Superior Incompleto,Câncer de Próstata,1000-2000
+39,Masculino,Solteiro,51045521,Superior Incompleto,Obesidade,50000-100000
+50,Outro,Solteiro,50876665,Ensino Fundamental,Insuficiência Cardíaca,2000-5000
+35,Masculino,Viúvo,50647562,Pós-Graduação,TDAH,2000-5000
+29,Outro,Divorciado,50357298,Pós-Graduação,Hipertensão,20000-50000
+19,Feminino,Divorciado,50011609,Superior Completo,Hipertensão,2000-5000
+64,Masculino,Viúvo,50760853,Superior Completo,Diabetes Tipo 2,10000-20000
+60,Outro,Viúvo,50737902,Superior Completo,Câncer de Próstata,10000-20000
+34,Feminino,Divorciado,50895339,Superior Completo,DPOC,20000-50000
+57,Masculino,Solteiro,50502895,Pós-Graduação,Esquizofrenia,2000-5000
+46,Masculino,Divorciado,50530061,Ensino Fundamental,Colesterol Alto,5000-10000
+46,Masculino,Divorciado,50265296,Ensino Médio,Nenhum,5000-10000
+44,Outro,Viúvo,50934662,Ensino Fundamental,Artrite,50000-100000
+36,Masculino,Viúvo,50610660,Superior Completo,Nenhum,20000-50000
+77,Outro,Viúvo,50876007,Superior Incompleto,Câncer de Próstata,1000-2000
+75,Outro,Casado,50480991,Pós-Graduação,Diabetes Tipo 2,2000-5000
+23,Outro,Solteiro,50379062,Pós-Graduação,Esquizofrenia,20000-50000
+85,Masculino,Casado,50589325,Pós-Graduação,Esquizofrenia,20000-50000
+32,Masculino,Viúvo,50937124,Superior Completo,Osteoporose,50000-100000
+37,Outro,Casado,50517496,Ensino Médio,Alergia Respiratória,5000-10000
+71,Outro,Divorciado,50904047,Pós-Graduação,Alergia Respiratória,50000-100000
+23,Masculino,Solteiro,50433768,Superior Incompleto,Colesterol Alto,5000-10000
+71,Masculino,Casado,50543340,Pós-Graduação,Diabetes Tipo 1,2000-5000
+32,Outro,Divorciado,50472027,Superior Completo,Colesterol Alto,5000-10000
+86,Outro,Casado,50289614,Pós-Graduação,Enxaqueca Crônica,10000-20000
+40,Feminino,Viúvo,50377199,Superior Completo,Insuficiência Cardíaca,2000-5000
+75,Outro,Divorciado,50780481,Superior Incompleto,Câncer de Próstata,5000-10000
+22,Masculino,Divorciado,50452897,Superior Completo,Diabetes Tipo 2,20000-50000
+50,Feminino,Divorciado,50244814,Ensino Médio,Nenhum,10000-20000
+23,Masculino,Solteiro,50883592,Superior Completo,Burnout,20000-50000
+32,Outro,Casado,50800560,Pós-Graduação,Hipertensão,5000-10000
+24,Masculino,Casado,50982657,Superior Completo,Obesidade,10000-20000
+53,Feminino,Casado,50752112,Ensino Fundamental,Colesterol Alto,20000-50000
+76,Feminino,Solteiro,50528915,Ensino Fundamental,Obesidade,50000-100000
+68,Masculino,Casado,50085270,Pós-Graduação,Obesidade,2000-5000
+24,Masculino,Solteiro,50916362,Ensino Médio,DPOC,2000-5000
+54,Outro,Divorciado,50856303,Pós-Graduação,Colesterol Alto,2000-5000
+46,Feminino,Solteiro,50290930,Superior Completo,Colesterol Alto,1000-2000
+66,Masculino,Viúvo,50221869,Pós-Graduação,Alergia Respiratória,50000-100000
+27,Outro,Divorciado,50174954,Ensino Médio,Nenhum,5000-10000
+72,Masculino,Casado,51003710,Superior Completo,Nenhum,10000-20000
+54,Masculino,Casado,50763257,Ensino Médio,Transtorno Bipolar,20000-50000
+54,Outro,Casado,50463226,Pós-Graduação,Esquizofrenia,2000-5000
+51,Outro,Viúvo,50552072,Ensino Fundamental,Esquizofrenia,20000-50000
+39,Feminino,Viúvo,50433377,Superior Completo,TEPT,2000-5000
+22,Masculino,Solteiro,50005797,Ensino Fundamental,Depressão,10000-20000
+68,Outro,Casado,50125004,Ensino Médio,DPOC,1000-2000
+88,Feminino,Casado,50868228,Pós-Graduação,Nenhum,50000-100000
+45,Feminino,Divorciado,50974163,Ensino Médio,Transtorno Bipolar,10000-20000
+38,Feminino,Divorciado,50526783,Superior Incompleto,Obesidade,5000-10000
+72,Outro,Divorciado,51040884,Superior Incompleto,Osteoporose,20000-50000
+53,Masculino,Solteiro,50049956,Ensino Fundamental,Ansiedade Generalizada,5000-10000
+76,Masculino,Solteiro,50012990,Pós-Graduação,Diabetes Tipo 1,10000-20000
+67,Outro,Casado,50375337,Superior Completo,Câncer de Mama,1000-2000
+73,Feminino,Casado,50422738,Ensino Médio,Depressão,20000-50000
+28,Outro,Viúvo,50766458,Ensino Fundamental,Câncer de Mama,50000-100000
+19,Feminino,Viúvo,50571254,Ensino Fundamental,Colesterol Alto,10000-20000
+26,Feminino,Casado,50928186,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+75,Masculino,Divorciado,50258544,Superior Completo,Diabetes Tipo 2,1000-2000
+88,Feminino,Viúvo,50771201,Ensino Médio,DPOC,5000-10000
+63,Masculino,Viúvo,50528096,Pós-Graduação,Alergia Respiratória,50000-100000
+40,Masculino,Viúvo,50840936,Pós-Graduação,Alergia Respiratória,10000-20000
+34,Outro,Viúvo,50312663,Superior Incompleto,Ansiedade Generalizada,10000-20000
+57,Outro,Viúvo,50163015,Ensino Fundamental,Obesidade,5000-10000
+58,Feminino,Viúvo,50306332,Superior Incompleto,Obesidade,5000-10000
+52,Masculino,Casado,50852990,Superior Completo,Câncer de Próstata,1000-2000
+40,Feminino,Divorciado,50417582,Pós-Graduação,Alergia Respiratória,50000-100000
+27,Outro,Casado,51050204,Superior Completo,DPOC,10000-20000
+72,Feminino,Solteiro,51070062,Ensino Fundamental,Enxaqueca Crônica,10000-20000
+85,Masculino,Solteiro,50413613,Pós-Graduação,Enxaqueca Crônica,50000-100000
+68,Masculino,Solteiro,50489183,Ensino Fundamental,Alergia Respiratória,2000-5000
+21,Outro,Casado,50138306,Ensino Fundamental,Câncer de Mama,10000-20000
+52,Feminino,Divorciado,50303798,Pós-Graduação,Esquizofrenia,1000-2000
+48,Feminino,Divorciado,50937671,Pós-Graduação,Ansiedade Generalizada,2000-5000
+19,Masculino,Divorciado,50743087,Ensino Médio,Depressão,50000-100000
+28,Feminino,Viúvo,50334121,Pós-Graduação,Hipertensão,2000-5000
+23,Outro,Solteiro,50206052,Ensino Fundamental,Diabetes Tipo 1,10000-20000
+87,Masculino,Divorciado,50043298,Ensino Fundamental,Artrite,20000-50000
+51,Outro,Casado,51074417,Ensino Médio,Depressão,5000-10000
+51,Feminino,Casado,50466815,Pós-Graduação,TDAH,10000-20000
+32,Masculino,Viúvo,51044926,Ensino Fundamental,TEPT,10000-20000
+55,Outro,Divorciado,50256105,Ensino Fundamental,Burnout,50000-100000
+41,Masculino,Divorciado,50885449,Ensino Médio,Depressão,1000-2000
+84,Masculino,Solteiro,50332244,Superior Incompleto,Câncer de Próstata,2000-5000
+72,Masculino,Solteiro,50659930,Superior Completo,Diabetes Tipo 1,1000-2000
+29,Masculino,Divorciado,50470236,Superior Completo,Enxaqueca Crônica,20000-50000
+89,Outro,Solteiro,50142291,Pós-Graduação,Alergia Respiratória,10000-20000
+58,Masculino,Divorciado,50550365,Superior Incompleto,Insuficiência Cardíaca,10000-20000
+28,Outro,Viúvo,50517156,Ensino Fundamental,Colesterol Alto,10000-20000
+30,Outro,Casado,50878276,Superior Incompleto,Câncer de Próstata,10000-20000
+37,Outro,Casado,50510189,Pós-Graduação,Alergia Respiratória,5000-10000
+31,Masculino,Viúvo,50269419,Ensino Médio,Alergia Respiratória,10000-20000
+81,Masculino,Viúvo,51033282,Pós-Graduação,Diabetes Tipo 2,5000-10000
+78,Feminino,Casado,50735845,Superior Completo,Enxaqueca Crônica,10000-20000
+33,Masculino,Viúvo,51026407,Superior Completo,Burnout,50000-100000
+69,Feminino,Divorciado,50593100,Ensino Fundamental,Osteoporose,1000-2000
+75,Feminino,Solteiro,50393768,Superior Completo,Diabetes Tipo 2,10000-20000
+32,Masculino,Divorciado,50096947,Superior Incompleto,Colesterol Alto,50000-100000
+81,Feminino,Casado,50535067,Ensino Médio,Esquizofrenia,2000-5000
+26,Outro,Divorciado,50211204,Ensino Fundamental,DPOC,10000-20000
+82,Outro,Divorciado,50554013,Ensino Fundamental,Insuficiência Cardíaca,50000-100000
+43,Masculino,Casado,50336311,Ensino Fundamental,Insuficiência Cardíaca,2000-5000
+59,Masculino,Viúvo,50666106,Pós-Graduação,DPOC,10000-20000
+51,Masculino,Solteiro,50117451,Pós-Graduação,Nenhum,1000-2000
+70,Masculino,Casado,50282551,Superior Completo,Depressão,10000-20000
+47,Feminino,Divorciado,50397235,Superior Completo,DPOC,20000-50000
+81,Feminino,Casado,50525591,Ensino Médio,Câncer de Próstata,2000-5000
+74,Masculino,Casado,50236444,Superior Completo,TDAH,10000-20000
+73,Outro,Solteiro,50214508,Superior Incompleto,Transtorno Bipolar,1000-2000
+53,Masculino,Casado,50587746,Ensino Médio,Alergia Respiratória,2000-5000
+80,Masculino,Casado,50075931,Superior Incompleto,Colesterol Alto,5000-10000
+58,Masculino,Solteiro,50719190,Ensino Médio,Enxaqueca Crônica,50000-100000
+88,Outro,Divorciado,50747702,Superior Completo,Ansiedade Generalizada,50000-100000
+80,Feminino,Viúvo,50542505,Superior Incompleto,Câncer de Mama,10000-20000
+89,Feminino,Solteiro,50640906,Pós-Graduação,Diabetes Tipo 1,5000-10000
+56,Feminino,Casado,50922879,Ensino Médio,Ansiedade Generalizada,1000-2000
+62,Outro,Divorciado,51019905,Ensino Médio,Obesidade,20000-50000
+68,Masculino,Casado,50814787,Superior Completo,Burnout,20000-50000
+68,Feminino,Casado,50718111,Superior Incompleto,Enxaqueca Crônica,10000-20000
+33,Outro,Divorciado,50651551,Superior Completo,Obesidade,50000-100000
+68,Feminino,Viúvo,50588294,Pós-Graduação,Esquizofrenia,5000-10000
+54,Feminino,Divorciado,50132669,Ensino Fundamental,Asma,20000-50000
+25,Masculino,Casado,50209114,Superior Completo,TDAH,50000-100000
+27,Outro,Viúvo,50768564,Superior Incompleto,Insuficiência Cardíaca,2000-5000
+68,Outro,Casado,50931172,Superior Incompleto,Ansiedade Generalizada,20000-50000
+88,Masculino,Divorciado,50527036,Superior Incompleto,Câncer de Mama,10000-20000
+23,Outro,Solteiro,50880282,Ensino Médio,Diabetes Tipo 1,2000-5000
+30,Feminino,Divorciado,50333160,Superior Incompleto,Nenhum,2000-5000
+27,Feminino,Solteiro,50293714,Pós-Graduação,Obesidade,5000-10000
+37,Outro,Viúvo,50829506,Ensino Fundamental,Câncer de Mama,2000-5000
+40,Masculino,Viúvo,50939627,Superior Completo,Diabetes Tipo 2,10000-20000
+74,Feminino,Solteiro,50483194,Superior Incompleto,Transtorno Bipolar,5000-10000
+64,Feminino,Viúvo,50155511,Superior Completo,TEPT,1000-2000
+81,Feminino,Viúvo,50380877,Ensino Fundamental,DPOC,5000-10000
+47,Masculino,Divorciado,50852560,Pós-Graduação,Câncer de Pulmão,20000-50000
+48,Masculino,Viúvo,51086333,Ensino Médio,Artrite,20000-50000
+46,Feminino,Casado,51007551,Superior Completo,Câncer de Pulmão,20000-50000
+53,Outro,Casado,50460511,Superior Incompleto,Diabetes Tipo 2,2000-5000
+58,Masculino,Viúvo,50037559,Ensino Fundamental,Transtorno Bipolar,5000-10000
+74,Outro,Divorciado,50723760,Ensino Médio,Nenhum,1000-2000
+65,Outro,Casado,50411480,Superior Incompleto,Diabetes Tipo 1,10000-20000
+60,Feminino,Viúvo,50094070,Superior Completo,Insuficiência Cardíaca,1000-2000
+59,Feminino,Viúvo,51006886,Ensino Fundamental,Câncer de Pulmão,20000-50000
+54,Feminino,Viúvo,50708781,Superior Incompleto,DPOC,1000-2000
+68,Masculino,Solteiro,50390679,Superior Completo,TDAH,1000-2000
+29,Feminino,Divorciado,50204317,Ensino Médio,Câncer de Pulmão,5000-10000
+29,Masculino,Viúvo,50239849,Ensino Médio,Diabetes Tipo 1,20000-50000
+60,Feminino,Viúvo,50374034,Pós-Graduação,Diabetes Tipo 1,1000-2000
+70,Feminino,Casado,50978139,Pós-Graduação,TEPT,1000-2000
+36,Masculino,Casado,51075322,Ensino Fundamental,Alergia Respiratória,1000-2000
+19,Feminino,Solteiro,50227583,Ensino Médio,Esquizofrenia,1000-2000
+83,Masculino,Viúvo,50447348,Ensino Médio,Esquizofrenia,20000-50000
+45,Masculino,Solteiro,50550861,Pós-Graduação,Depressão,5000-10000
+37,Outro,Solteiro,50539020,Ensino Fundamental,Transtorno Bipolar,2000-5000
+57,Feminino,Casado,50508021,Ensino Médio,Insuficiência Cardíaca,2000-5000
+21,Outro,Solteiro,50473717,Pós-Graduação,DPOC,10000-20000
+84,Masculino,Casado,50370979,Ensino Médio,Depressão,20000-50000
+67,Feminino,Casado,50097127,Pós-Graduação,Diabetes Tipo 2,20000-50000
+48,Feminino,Viúvo,50150500,Pós-Graduação,Hipertensão,10000-20000
+34,Masculino,Divorciado,50126232,Ensino Médio,Enxaqueca Crônica,20000-50000
+25,Outro,Solteiro,50232184,Pós-Graduação,Nenhum,20000-50000
+78,Feminino,Viúvo,50434398,Pós-Graduação,Ansiedade Generalizada,2000-5000
+29,Feminino,Solteiro,50029715,Pós-Graduação,Ansiedade Generalizada,50000-100000
+82,Outro,Solteiro,50141302,Pós-Graduação,Câncer de Mama,2000-5000
+76,Feminino,Casado,50742517,Pós-Graduação,TEPT,10000-20000
+84,Feminino,Divorciado,50044918,Pós-Graduação,Enxaqueca Crônica,5000-10000
+83,Outro,Casado,50519715,Ensino Fundamental,Asma,5000-10000
+80,Outro,Divorciado,51091965,Superior Incompleto,TDAH,2000-5000
+80,Outro,Casado,50825378,Ensino Fundamental,Câncer de Próstata,10000-20000
+76,Feminino,Casado,50876592,Superior Incompleto,Depressão,1000-2000
+66,Feminino,Viúvo,50413841,Superior Incompleto,Enxaqueca Crônica,20000-50000
+73,Outro,Viúvo,50735350,Superior Completo,Burnout,50000-100000
+46,Outro,Viúvo,50932399,Pós-Graduação,Artrite,1000-2000
+87,Feminino,Viúvo,50551185,Superior Completo,DPOC,5000-10000
+85,Outro,Divorciado,50998391,Superior Incompleto,Colesterol Alto,10000-20000
+61,Outro,Viúvo,51091130,Pós-Graduação,TEPT,10000-20000
+22,Outro,Solteiro,50597438,Superior Incompleto,Osteoporose,50000-100000
+83,Outro,Divorciado,50801941,Superior Completo,Insuficiência Cardíaca,1000-2000
+41,Masculino,Casado,51090479,Superior Incompleto,Câncer de Pulmão,2000-5000
+65,Feminino,Solteiro,50827657,Superior Completo,Hipertensão,10000-20000
+61,Feminino,Viúvo,50035291,Superior Incompleto,Insuficiência Cardíaca,50000-100000
+57,Feminino,Casado,50584201,Pós-Graduação,Alergia Respiratória,20000-50000
+58,Masculino,Viúvo,50561441,Ensino Fundamental,Osteoporose,20000-50000
+66,Feminino,Solteiro,50431388,Ensino Médio,Artrite,10000-20000
+42,Masculino,Casado,50769593,Ensino Médio,Esquizofrenia,50000-100000
+87,Feminino,Divorciado,50839165,Ensino Médio,Diabetes Tipo 1,10000-20000
+70,Outro,Divorciado,50881811,Pós-Graduação,DPOC,2000-5000
+53,Masculino,Viúvo,50315847,Superior Incompleto,TEPT,10000-20000
+49,Outro,Casado,50732039,Ensino Médio,Colesterol Alto,2000-5000
+74,Masculino,Casado,50058773,Ensino Fundamental,Insuficiência Cardíaca,1000-2000
+90,Masculino,Divorciado,50777084,Ensino Fundamental,Asma,5000-10000
+29,Masculino,Solteiro,50036896,Pós-Graduação,DPOC,50000-100000
+77,Masculino,Viúvo,50663304,Superior Completo,Burnout,2000-5000
+52,Feminino,Casado,50097625,Superior Incompleto,Asma,2000-5000
+47,Feminino,Casado,50449678,Pós-Graduação,Transtorno Bipolar,10000-20000
+26,Masculino,Casado,50373246,Pós-Graduação,Diabetes Tipo 1,1000-2000
+81,Masculino,Solteiro,50710036,Ensino Médio,Diabetes Tipo 2,50000-100000
+67,Outro,Casado,50805181,Pós-Graduação,Burnout,20000-50000
+78,Feminino,Divorciado,50042013,Superior Completo,Colesterol Alto,50000-100000
+44,Outro,Viúvo,50869884,Pós-Graduação,Artrite,1000-2000
+47,Masculino,Solteiro,50215836,Superior Completo,Diabetes Tipo 1,50000-100000
+31,Feminino,Viúvo,50658944,Pós-Graduação,Burnout,50000-100000
+40,Outro,Divorciado,51038701,Superior Completo,Ansiedade Generalizada,20000-50000
+26,Outro,Solteiro,50572915,Superior Completo,Colesterol Alto,1000-2000
+28,Outro,Viúvo,50353870,Ensino Fundamental,Hipertensão,5000-10000
+45,Feminino,Divorciado,50315635,Pós-Graduação,Câncer de Próstata,50000-100000
+18,Outro,Casado,50524083,Superior Completo,TDAH,1000-2000
+26,Outro,Viúvo,50092916,Superior Completo,Diabetes Tipo 1,10000-20000
+70,Outro,Solteiro,50202542,Superior Completo,TDAH,20000-50000
+43,Feminino,Viúvo,51083623,Ensino Fundamental,Burnout,10000-20000
+52,Masculino,Divorciado,50261578,Superior Completo,Ansiedade Generalizada,20000-50000
+67,Masculino,Casado,50396618,Superior Incompleto,Câncer de Mama,50000-100000
+69,Feminino,Viúvo,50831418,Ensino Fundamental,Colesterol Alto,5000-10000
+72,Feminino,Divorciado,50453746,Pós-Graduação,Ansiedade Generalizada,1000-2000
+56,Feminino,Divorciado,50704419,Pós-Graduação,Nenhum,5000-10000
+54,Masculino,Divorciado,50751148,Superior Incompleto,Diabetes Tipo 1,20000-50000
+88,Outro,Casado,50279114,Pós-Graduação,Diabetes Tipo 2,5000-10000
+90,Masculino,Solteiro,50861509,Pós-Graduação,Câncer de Pulmão,10000-20000
+35,Feminino,Solteiro,50884314,Superior Completo,Câncer de Mama,10000-20000
+58,Masculino,Divorciado,51088078,Superior Completo,Obesidade,50000-100000
+89,Outro,Divorciado,51027319,Superior Completo,Obesidade,50000-100000
+57,Outro,Solteiro,50743346,Ensino Médio,Obesidade,10000-20000
+71,Masculino,Casado,50513249,Superior Completo,Transtorno Bipolar,2000-5000
+86,Feminino,Solteiro,50066809,Superior Incompleto,DPOC,10000-20000
+56,Outro,Viúvo,50864864,Superior Completo,Osteoporose,1000-2000
+38,Outro,Divorciado,50660910,Ensino Fundamental,DPOC,5000-10000
+67,Feminino,Casado,50189918,Superior Completo,DPOC,10000-20000
+60,Feminino,Solteiro,50767942,Pós-Graduação,Ansiedade Generalizada,10000-20000
+87,Outro,Solteiro,50562232,Ensino Fundamental,DPOC,10000-20000
+33,Outro,Casado,50942732,Ensino Médio,Osteoporose,10000-20000
+45,Masculino,Casado,50856239,Superior Incompleto,Câncer de Pulmão,50000-100000
+76,Feminino,Divorciado,50854388,Ensino Fundamental,Transtorno Bipolar,5000-10000
+61,Masculino,Solteiro,50654452,Superior Incompleto,Transtorno Bipolar,10000-20000
+52,Feminino,Casado,51062838,Superior Incompleto,TDAH,10000-20000
+87,Masculino,Solteiro,51010068,Ensino Médio,TDAH,20000-50000
+76,Outro,Divorciado,50687518,Superior Completo,Diabetes Tipo 2,2000-5000
+21,Outro,Divorciado,50697224,Ensino Médio,Hipertensão,1000-2000
+75,Outro,Solteiro,50677017,Superior Incompleto,Câncer de Pulmão,10000-20000
+40,Masculino,Divorciado,50615448,Ensino Fundamental,Ansiedade Generalizada,10000-20000
+52,Feminino,Viúvo,50282928,Superior Incompleto,Insuficiência Cardíaca,20000-50000
+30,Feminino,Casado,50587625,Superior Incompleto,Depressão,10000-20000
+59,Masculino,Solteiro,50947727,Superior Incompleto,Transtorno Bipolar,50000-100000
+70,Feminino,Solteiro,50010292,Ensino Fundamental,TDAH,10000-20000
+28,Outro,Viúvo,50593757,Pós-Graduação,Nenhum,5000-10000
+23,Outro,Divorciado,50976936,Superior Incompleto,Insuficiência Cardíaca,50000-100000
+56,Feminino,Casado,50153838,Superior Incompleto,Diabetes Tipo 1,10000-20000
+26,Masculino,Viúvo,50690726,Pós-Graduação,Insuficiência Cardíaca,1000-2000
+79,Feminino,Casado,50178373,Ensino Médio,Insuficiência Cardíaca,20000-50000
+48,Feminino,Casado,50692042,Ensino Fundamental,Câncer de Próstata,20000-50000
+36,Feminino,Viúvo,50578866,Superior Incompleto,Esquizofrenia,10000-20000
+50,Outro,Solteiro,51040702,Ensino Médio,Artrite,1000-2000
+71,Feminino,Divorciado,50649510,Superior Incompleto,Asma,10000-20000
+56,Masculino,Solteiro,50531299,Ensino Fundamental,TDAH,20000-50000
+32,Feminino,Solteiro,50960683,Ensino Médio,Transtorno Bipolar,2000-5000
+32,Outro,Viúvo,50012519,Superior Incompleto,Obesidade,2000-5000
+46,Masculino,Casado,51030989,Ensino Fundamental,Enxaqueca Crônica,5000-10000
+51,Masculino,Divorciado,50687597,Ensino Médio,Câncer de Próstata,50000-100000
+47,Feminino,Casado,50708825,Pós-Graduação,Diabetes Tipo 1,10000-20000
+27,Outro,Solteiro,50562241,Superior Completo,TEPT,2000-5000
+25,Masculino,Divorciado,50544502,Ensino Fundamental,Diabetes Tipo 2,50000-100000
+43,Masculino,Casado,50249180,Superior Completo,Insuficiência Cardíaca,1000-2000
+69,Masculino,Viúvo,50556694,Ensino Fundamental,TEPT,20000-50000
+25,Feminino,Viúvo,50584676,Superior Incompleto,Obesidade,50000-100000
+66,Masculino,Divorciado,50001934,Ensino Fundamental,Câncer de Mama,10000-20000
+82,Outro,Divorciado,50032015,Superior Incompleto,Esquizofrenia,2000-5000
+25,Feminino,Solteiro,50413614,Ensino Médio,Obesidade,1000-2000
+52,Masculino,Divorciado,50397828,Superior Completo,Depressão,50000-100000
+30,Feminino,Divorciado,50350585,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+32,Masculino,Solteiro,50447791,Superior Completo,Hipertensão,2000-5000
+72,Feminino,Viúvo,50176966,Superior Incompleto,Nenhum,1000-2000
+43,Masculino,Casado,51008260,Superior Completo,Nenhum,2000-5000
+28,Outro,Divorciado,50369963,Pós-Graduação,Burnout,2000-5000
+55,Masculino,Viúvo,50195166,Pós-Graduação,Transtorno Bipolar,20000-50000
+89,Feminino,Casado,50363104,Ensino Médio,Esquizofrenia,2000-5000
+90,Feminino,Casado,50905122,Ensino Fundamental,Osteoporose,10000-20000
+30,Feminino,Viúvo,51054615,Ensino Médio,Colesterol Alto,10000-20000
+32,Masculino,Divorciado,50350354,Ensino Médio,Câncer de Pulmão,5000-10000
+50,Outro,Divorciado,51045050,Ensino Fundamental,Ansiedade Generalizada,20000-50000
+80,Outro,Solteiro,50391305,Superior Incompleto,Colesterol Alto,2000-5000
+62,Masculino,Solteiro,50735135,Superior Completo,Diabetes Tipo 2,2000-5000
+56,Outro,Solteiro,50089218,Pós-Graduação,Câncer de Próstata,1000-2000
+56,Masculino,Solteiro,50386994,Ensino Fundamental,Artrite,1000-2000
+79,Outro,Divorciado,50706336,Superior Incompleto,Depressão,20000-50000
+28,Masculino,Casado,50820536,Pós-Graduação,Diabetes Tipo 2,1000-2000
+50,Feminino,Viúvo,51097063,Superior Incompleto,Burnout,1000-2000
+28,Masculino,Casado,50915823,Ensino Médio,Diabetes Tipo 2,5000-10000
+58,Feminino,Casado,50871121,Ensino Fundamental,Asma,5000-10000
+60,Outro,Viúvo,50128669,Superior Incompleto,Alergia Respiratória,2000-5000
+20,Masculino,Divorciado,50388557,Ensino Fundamental,Câncer de Pulmão,1000-2000
+83,Outro,Viúvo,50806890,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+67,Outro,Solteiro,50930802,Pós-Graduação,Nenhum,5000-10000
+20,Masculino,Viúvo,50605690,Ensino Médio,Hipertensão,1000-2000
+84,Masculino,Casado,50169051,Ensino Fundamental,Colesterol Alto,5000-10000
+49,Masculino,Viúvo,51035843,Ensino Fundamental,TDAH,2000-5000
+48,Feminino,Solteiro,50723158,Superior Incompleto,Hipertensão,20000-50000
+22,Feminino,Casado,50681688,Superior Completo,Asma,1000-2000
+50,Outro,Solteiro,50524508,Ensino Fundamental,Ansiedade Generalizada,20000-50000
+36,Masculino,Divorciado,50193357,Ensino Médio,Câncer de Pulmão,50000-100000
+74,Outro,Casado,50374542,Pós-Graduação,Transtorno Bipolar,5000-10000
+65,Outro,Viúvo,50471502,Superior Incompleto,Obesidade,1000-2000
+40,Masculino,Viúvo,50718387,Ensino Médio,Ansiedade Generalizada,50000-100000
+22,Masculino,Casado,50003632,Superior Completo,Diabetes Tipo 2,20000-50000
+50,Outro,Divorciado,50930981,Superior Incompleto,Hipertensão,20000-50000
+66,Masculino,Solteiro,50709606,Superior Incompleto,Diabetes Tipo 1,10000-20000
+27,Outro,Divorciado,50317590,Pós-Graduação,TDAH,1000-2000
+36,Feminino,Solteiro,51009785,Superior Completo,Câncer de Mama,5000-10000
+57,Feminino,Divorciado,50526624,Superior Incompleto,Nenhum,1000-2000
+81,Masculino,Casado,50654979,Pós-Graduação,DPOC,2000-5000
+35,Feminino,Viúvo,50525980,Ensino Fundamental,Depressão,2000-5000
+24,Feminino,Viúvo,51036229,Ensino Fundamental,Asma,10000-20000
+47,Feminino,Solteiro,50565726,Ensino Médio,Ansiedade Generalizada,20000-50000
+60,Masculino,Casado,50505685,Ensino Médio,Câncer de Mama,2000-5000
+67,Feminino,Solteiro,50780009,Ensino Médio,Câncer de Próstata,2000-5000
+74,Masculino,Casado,50958605,Ensino Médio,Asma,2000-5000
+54,Outro,Solteiro,50132681,Superior Completo,Nenhum,50000-100000
+33,Outro,Casado,50750252,Ensino Médio,Alergia Respiratória,50000-100000
+22,Masculino,Casado,50139615,Superior Completo,Câncer de Pulmão,5000-10000
+30,Feminino,Casado,50433264,Pós-Graduação,TEPT,5000-10000
+36,Outro,Divorciado,50534934,Ensino Médio,Osteoporose,1000-2000
+78,Masculino,Casado,50141897,Superior Incompleto,Alergia Respiratória,50000-100000
+59,Masculino,Casado,50017775,Superior Completo,Transtorno Bipolar,10000-20000
+37,Feminino,Casado,50632578,Superior Incompleto,TDAH,5000-10000
+29,Feminino,Viúvo,50290605,Ensino Médio,Artrite,10000-20000
+51,Outro,Solteiro,50397979,Ensino Médio,DPOC,50000-100000
+18,Feminino,Casado,50877161,Superior Incompleto,Burnout,2000-5000
+68,Outro,Divorciado,50076954,Ensino Fundamental,Transtorno Bipolar,2000-5000
+37,Outro,Viúvo,50282030,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+82,Outro,Divorciado,50181401,Ensino Fundamental,TEPT,2000-5000
+64,Masculino,Solteiro,50870102,Superior Incompleto,Enxaqueca Crônica,20000-50000
+22,Feminino,Divorciado,50156108,Ensino Médio,TDAH,20000-50000
+47,Masculino,Casado,50219788,Superior Completo,Esquizofrenia,5000-10000
+89,Masculino,Solteiro,50162213,Ensino Fundamental,Depressão,5000-10000
+82,Masculino,Solteiro,50992017,Superior Incompleto,Ansiedade Generalizada,5000-10000
+77,Outro,Divorciado,50033693,Ensino Fundamental,TDAH,20000-50000
+70,Feminino,Divorciado,50455755,Ensino Fundamental,Nenhum,50000-100000
+56,Masculino,Casado,50935519,Superior Incompleto,Asma,2000-5000
+76,Outro,Casado,50049026,Ensino Fundamental,DPOC,1000-2000
+61,Feminino,Solteiro,50049673,Pós-Graduação,DPOC,50000-100000
+48,Feminino,Solteiro,50796481,Pós-Graduação,Câncer de Pulmão,2000-5000
+19,Masculino,Viúvo,50170306,Ensino Fundamental,Transtorno Bipolar,5000-10000
+20,Outro,Viúvo,50610064,Superior Incompleto,Alergia Respiratória,20000-50000
+38,Outro,Divorciado,50492840,Ensino Fundamental,Asma,5000-10000
+24,Feminino,Divorciado,50390749,Superior Incompleto,Asma,2000-5000
+26,Outro,Solteiro,50774888,Pós-Graduação,Esquizofrenia,1000-2000
+48,Outro,Casado,50467839,Superior Incompleto,Artrite,1000-2000
+75,Masculino,Solteiro,50211245,Superior Incompleto,Alergia Respiratória,1000-2000
+22,Outro,Solteiro,50596402,Superior Completo,Depressão,20000-50000
+89,Outro,Solteiro,50968461,Superior Completo,Câncer de Próstata,1000-2000
+69,Outro,Solteiro,50409968,Ensino Fundamental,Depressão,50000-100000
+74,Outro,Casado,50047229,Superior Incompleto,Asma,1000-2000
+82,Feminino,Viúvo,50547813,Pós-Graduação,Burnout,1000-2000
+30,Feminino,Viúvo,50039788,Pós-Graduação,Colesterol Alto,2000-5000
+51,Masculino,Viúvo,50759174,Superior Incompleto,DPOC,2000-5000
+55,Outro,Divorciado,50994204,Superior Completo,Artrite,50000-100000
+34,Feminino,Divorciado,50211029,Ensino Médio,Insuficiência Cardíaca,20000-50000
+62,Feminino,Casado,50843669,Ensino Fundamental,Osteoporose,2000-5000
+27,Feminino,Solteiro,50342853,Ensino Fundamental,Diabetes Tipo 2,2000-5000
+65,Outro,Viúvo,50251461,Superior Incompleto,Artrite,5000-10000
+61,Masculino,Casado,50202750,Ensino Médio,Nenhum,50000-100000
+84,Masculino,Casado,50110800,Ensino Médio,Obesidade,5000-10000
+19,Feminino,Divorciado,50210553,Superior Completo,Insuficiência Cardíaca,2000-5000
+39,Feminino,Viúvo,50049173,Ensino Fundamental,Asma,50000-100000
+88,Masculino,Casado,50583463,Ensino Médio,Asma,10000-20000
+69,Feminino,Solteiro,50361988,Superior Incompleto,Câncer de Mama,20000-50000
+27,Feminino,Casado,50982095,Ensino Fundamental,Burnout,50000-100000
+65,Outro,Divorciado,50138430,Superior Completo,Colesterol Alto,5000-10000
+38,Masculino,Solteiro,50439236,Superior Incompleto,Insuficiência Cardíaca,20000-50000
+67,Masculino,Solteiro,50338454,Superior Completo,Ansiedade Generalizada,10000-20000
+28,Outro,Casado,50950383,Superior Completo,TDAH,5000-10000
+52,Masculino,Viúvo,50496157,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+64,Masculino,Viúvo,50187061,Ensino Médio,Osteoporose,10000-20000
+77,Masculino,Casado,50899054,Pós-Graduação,Câncer de Mama,20000-50000
+74,Outro,Viúvo,50965819,Ensino Fundamental,Ansiedade Generalizada,10000-20000
+75,Feminino,Casado,50374739,Ensino Fundamental,Ansiedade Generalizada,10000-20000
+41,Feminino,Solteiro,50031156,Ensino Médio,Asma,1000-2000
+81,Feminino,Divorciado,50914368,Pós-Graduação,Esquizofrenia,50000-100000
+21,Feminino,Casado,50332295,Ensino Médio,Transtorno Bipolar,5000-10000
+66,Masculino,Viúvo,50101082,Superior Completo,Diabetes Tipo 2,10000-20000
+85,Feminino,Solteiro,50104097,Ensino Fundamental,Burnout,1000-2000
+52,Feminino,Divorciado,50768889,Pós-Graduação,Esquizofrenia,5000-10000
+44,Feminino,Casado,50474680,Superior Completo,Câncer de Pulmão,1000-2000
+59,Masculino,Casado,51094804,Superior Completo,Colesterol Alto,1000-2000
+37,Outro,Solteiro,50004255,Ensino Fundamental,Burnout,2000-5000
+28,Feminino,Casado,50574799,Superior Completo,Esquizofrenia,10000-20000
+60,Feminino,Divorciado,50400665,Superior Incompleto,Câncer de Mama,50000-100000
+82,Outro,Viúvo,50936372,Pós-Graduação,Alergia Respiratória,2000-5000
+21,Outro,Solteiro,50295677,Superior Completo,TDAH,2000-5000
+47,Masculino,Casado,51002497,Ensino Médio,Hipertensão,2000-5000
+23,Masculino,Viúvo,50163253,Superior Completo,Alergia Respiratória,2000-5000
+69,Outro,Divorciado,50722718,Superior Incompleto,Câncer de Próstata,20000-50000
+38,Masculino,Solteiro,50354184,Ensino Fundamental,Depressão,50000-100000
+76,Masculino,Viúvo,50039906,Ensino Médio,Câncer de Próstata,50000-100000
+80,Feminino,Divorciado,50213061,Pós-Graduação,Nenhum,5000-10000
+19,Outro,Casado,51004125,Ensino Fundamental,Hipertensão,20000-50000
+76,Masculino,Viúvo,50146597,Superior Incompleto,Câncer de Mama,20000-50000
+60,Masculino,Casado,50964338,Ensino Fundamental,Hipertensão,1000-2000
+85,Masculino,Solteiro,50442926,Ensino Médio,Nenhum,5000-10000
+47,Outro,Casado,50088685,Ensino Médio,Câncer de Pulmão,5000-10000
+34,Feminino,Solteiro,50865253,Ensino Médio,Câncer de Pulmão,10000-20000
+74,Outro,Divorciado,50463260,Ensino Médio,Ansiedade Generalizada,5000-10000
+35,Feminino,Divorciado,51001970,Ensino Fundamental,Depressão,2000-5000
+58,Feminino,Divorciado,50013945,Superior Incompleto,TDAH,20000-50000
+21,Masculino,Viúvo,50801792,Ensino Fundamental,Insuficiência Cardíaca,5000-10000
+24,Outro,Divorciado,50099448,Pós-Graduação,Insuficiência Cardíaca,2000-5000
+88,Feminino,Viúvo,50489655,Pós-Graduação,Nenhum,1000-2000
+71,Masculino,Casado,50137690,Superior Completo,Colesterol Alto,10000-20000
+32,Masculino,Solteiro,51067640,Superior Completo,Transtorno Bipolar,2000-5000
+75,Masculino,Viúvo,50765165,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+81,Masculino,Casado,50630980,Ensino Fundamental,Alergia Respiratória,1000-2000
+77,Outro,Solteiro,50334303,Ensino Fundamental,Obesidade,2000-5000
+74,Outro,Divorciado,50445268,Ensino Fundamental,Artrite,1000-2000
+24,Masculino,Viúvo,50354891,Ensino Fundamental,Ansiedade Generalizada,2000-5000
+27,Masculino,Divorciado,50497647,Pós-Graduação,TDAH,50000-100000
+50,Masculino,Viúvo,50531312,Ensino Fundamental,Câncer de Pulmão,2000-5000
+67,Feminino,Divorciado,50723038,Ensino Médio,TEPT,2000-5000
+80,Outro,Casado,50756171,Ensino Médio,Câncer de Pulmão,10000-20000
+55,Feminino,Divorciado,50446884,Ensino Fundamental,Diabetes Tipo 1,1000-2000
+90,Masculino,Viúvo,50229485,Pós-Graduação,Câncer de Próstata,1000-2000
+60,Outro,Viúvo,50190641,Ensino Fundamental,Câncer de Mama,20000-50000
+23,Masculino,Solteiro,51025200,Ensino Médio,Alergia Respiratória,50000-100000
+33,Masculino,Casado,50150908,Superior Completo,TEPT,20000-50000
+61,Masculino,Viúvo,51057009,Superior Incompleto,Alergia Respiratória,10000-20000
+56,Masculino,Solteiro,50527525,Superior Completo,Osteoporose,5000-10000
+73,Outro,Solteiro,50791075,Superior Completo,Artrite,1000-2000
+21,Feminino,Solteiro,50543881,Superior Completo,Asma,20000-50000
+39,Masculino,Casado,50799624,Superior Incompleto,Hipertensão,2000-5000
+68,Masculino,Solteiro,50901857,Ensino Médio,TEPT,2000-5000
+78,Feminino,Solteiro,50696550,Superior Incompleto,Enxaqueca Crônica,2000-5000
+40,Feminino,Viúvo,50137247,Superior Completo,Artrite,10000-20000
+68,Masculino,Divorciado,50942941,Superior Incompleto,Esquizofrenia,2000-5000
+29,Feminino,Divorciado,50678924,Pós-Graduação,Hipertensão,50000-100000
+37,Feminino,Solteiro,50814100,Superior Completo,Colesterol Alto,20000-50000
+37,Feminino,Casado,50500788,Pós-Graduação,Insuficiência Cardíaca,1000-2000
+59,Masculino,Solteiro,50176219,Superior Incompleto,Osteoporose,2000-5000
+76,Masculino,Viúvo,50138488,Pós-Graduação,Artrite,1000-2000
+57,Outro,Divorciado,50585445,Pós-Graduação,Esquizofrenia,10000-20000
+59,Feminino,Viúvo,51022966,Superior Incompleto,Transtorno Bipolar,20000-50000
+51,Outro,Casado,50742248,Ensino Fundamental,Obesidade,20000-50000
+88,Masculino,Viúvo,51032670,Ensino Fundamental,Depressão,50000-100000
+59,Feminino,Casado,50268733,Superior Completo,Ansiedade Generalizada,10000-20000
+52,Outro,Divorciado,50069834,Ensino Fundamental,Hipertensão,5000-10000
+57,Masculino,Divorciado,50056623,Pós-Graduação,Diabetes Tipo 1,2000-5000
+86,Masculino,Divorciado,50885999,Ensino Fundamental,Diabetes Tipo 2,10000-20000
+57,Outro,Solteiro,51080209,Ensino Médio,Diabetes Tipo 1,50000-100000
+38,Outro,Divorciado,50511771,Superior Incompleto,Câncer de Mama,10000-20000
+80,Feminino,Casado,50968186,Superior Incompleto,Câncer de Mama,20000-50000
+22,Masculino,Casado,50239199,Ensino Médio,Transtorno Bipolar,20000-50000
+79,Masculino,Solteiro,50881972,Ensino Médio,Asma,1000-2000
+79,Masculino,Divorciado,50939788,Pós-Graduação,TEPT,2000-5000
+50,Masculino,Casado,50576168,Superior Completo,Câncer de Mama,20000-50000
+48,Feminino,Casado,50891583,Pós-Graduação,Asma,50000-100000
+63,Masculino,Divorciado,50561925,Pós-Graduação,DPOC,2000-5000
+88,Feminino,Solteiro,50574816,Superior Incompleto,Artrite,5000-10000
+46,Outro,Viúvo,50570962,Ensino Médio,Transtorno Bipolar,5000-10000
+56,Masculino,Solteiro,50736167,Superior Completo,Câncer de Próstata,50000-100000
+66,Masculino,Casado,50824713,Ensino Fundamental,Diabetes Tipo 1,10000-20000
+56,Feminino,Divorciado,50888373,Pós-Graduação,Alergia Respiratória,2000-5000
+90,Outro,Divorciado,50807482,Ensino Médio,Esquizofrenia,50000-100000
+35,Masculino,Casado,50312258,Pós-Graduação,Alergia Respiratória,50000-100000
+89,Outro,Divorciado,50825213,Pós-Graduação,Diabetes Tipo 1,50000-100000
+47,Feminino,Solteiro,50650034,Ensino Fundamental,TDAH,10000-20000
+36,Feminino,Viúvo,50447290,Superior Completo,Ansiedade Generalizada,50000-100000
+74,Feminino,Casado,50338676,Ensino Médio,Burnout,5000-10000
+25,Feminino,Solteiro,50679539,Pós-Graduação,Asma,1000-2000
+18,Masculino,Casado,50552074,Superior Incompleto,Colesterol Alto,20000-50000
+79,Outro,Divorciado,51013710,Pós-Graduação,Hipertensão,2000-5000
+76,Masculino,Divorciado,50015943,Ensino Fundamental,Depressão,20000-50000
+41,Outro,Divorciado,50067216,Ensino Médio,Enxaqueca Crônica,1000-2000
+38,Outro,Solteiro,50209991,Ensino Médio,Alergia Respiratória,10000-20000
+51,Outro,Divorciado,50080358,Ensino Médio,Alergia Respiratória,5000-10000
+90,Outro,Viúvo,50462919,Superior Incompleto,Artrite,50000-100000
+61,Feminino,Divorciado,50432984,Pós-Graduação,Osteoporose,10000-20000
+43,Feminino,Viúvo,50640583,Pós-Graduação,Osteoporose,50000-100000
+28,Feminino,Casado,50670269,Superior Incompleto,Insuficiência Cardíaca,50000-100000
+42,Outro,Viúvo,50303284,Superior Incompleto,Insuficiência Cardíaca,20000-50000
+60,Feminino,Solteiro,50072288,Superior Incompleto,Colesterol Alto,2000-5000
+28,Outro,Divorciado,51081602,Superior Incompleto,TDAH,50000-100000
+80,Outro,Casado,50526599,Pós-Graduação,TDAH,50000-100000
+27,Outro,Viúvo,50417154,Superior Incompleto,Insuficiência Cardíaca,10000-20000
+22,Feminino,Divorciado,50593447,Superior Incompleto,Diabetes Tipo 1,2000-5000
+54,Feminino,Casado,50354922,Pós-Graduação,Câncer de Próstata,2000-5000
+45,Masculino,Viúvo,50381648,Ensino Médio,Nenhum,10000-20000
+63,Feminino,Casado,50208590,Superior Incompleto,TDAH,20000-50000
+39,Outro,Divorciado,50200116,Superior Incompleto,Osteoporose,2000-5000
+39,Masculino,Casado,50690269,Ensino Médio,Colesterol Alto,2000-5000
+47,Outro,Divorciado,50828514,Superior Incompleto,Alergia Respiratória,1000-2000
+85,Outro,Divorciado,50306005,Ensino Fundamental,Enxaqueca Crônica,2000-5000
+45,Masculino,Viúvo,50070625,Superior Incompleto,Esquizofrenia,10000-20000
+43,Feminino,Casado,51022070,Ensino Fundamental,Obesidade,5000-10000
+48,Feminino,Solteiro,50725626,Ensino Médio,DPOC,1000-2000
+66,Outro,Casado,50990957,Superior Incompleto,TEPT,20000-50000
+25,Feminino,Divorciado,50364818,Superior Incompleto,Câncer de Mama,20000-50000
+73,Feminino,Divorciado,50229454,Ensino Fundamental,Ansiedade Generalizada,1000-2000
+56,Outro,Casado,50075150,Ensino Médio,Diabetes Tipo 1,1000-2000
+46,Masculino,Casado,50122680,Pós-Graduação,Depressão,1000-2000
+63,Masculino,Solteiro,50047911,Superior Incompleto,Diabetes Tipo 1,5000-10000
+80,Outro,Casado,50692522,Pós-Graduação,TDAH,10000-20000
+71,Feminino,Casado,50353994,Superior Incompleto,Transtorno Bipolar,50000-100000
+41,Feminino,Casado,50204230,Pós-Graduação,Artrite,50000-100000
+31,Feminino,Viúvo,50130576,Ensino Médio,Câncer de Mama,50000-100000
+79,Masculino,Casado,50460233,Superior Incompleto,Osteoporose,5000-10000
+28,Feminino,Solteiro,50437878,Superior Completo,Asma,50000-100000
+44,Masculino,Solteiro,50189037,Superior Completo,Transtorno Bipolar,50000-100000
+86,Outro,Casado,50828963,Superior Incompleto,Câncer de Mama,50000-100000
+45,Masculino,Solteiro,50756740,Ensino Médio,DPOC,10000-20000
+62,Masculino,Casado,50129261,Pós-Graduação,Obesidade,10000-20000
+41,Outro,Viúvo,50791261,Ensino Médio,Asma,20000-50000
+62,Feminino,Viúvo,50740216,Ensino Fundamental,Burnout,10000-20000
+51,Feminino,Viúvo,51080689,Superior Incompleto,Transtorno Bipolar,1000-2000
+47,Masculino,Viúvo,50661559,Ensino Médio,Artrite,20000-50000
+73,Feminino,Casado,50804016,Superior Incompleto,Esquizofrenia,10000-20000
+19,Feminino,Viúvo,50311936,Ensino Médio,Colesterol Alto,5000-10000
+45,Feminino,Solteiro,50896381,Superior Incompleto,Câncer de Próstata,2000-5000
+39,Outro,Solteiro,50416033,Superior Completo,Osteoporose,20000-50000
+26,Outro,Divorciado,50963180,Ensino Fundamental,Câncer de Próstata,2000-5000
+70,Feminino,Solteiro,50357102,Ensino Médio,Obesidade,1000-2000
+81,Outro,Casado,50334843,Ensino Médio,Câncer de Próstata,2000-5000
+71,Masculino,Divorciado,50986875,Superior Incompleto,Depressão,1000-2000
+68,Outro,Viúvo,50415360,Superior Incompleto,Colesterol Alto,50000-100000
+55,Masculino,Divorciado,50173468,Pós-Graduação,Obesidade,10000-20000
+41,Masculino,Viúvo,50906255,Ensino Fundamental,Câncer de Mama,50000-100000
+18,Outro,Divorciado,50384418,Ensino Fundamental,TDAH,20000-50000
+32,Outro,Solteiro,50130481,Ensino Médio,Enxaqueca Crônica,1000-2000
+53,Masculino,Viúvo,50510424,Superior Completo,Obesidade,20000-50000
+88,Feminino,Divorciado,50187313,Superior Incompleto,Asma,1000-2000
+77,Masculino,Casado,50807593,Ensino Fundamental,Diabetes Tipo 1,20000-50000
+28,Feminino,Divorciado,51099227,Ensino Médio,Transtorno Bipolar,1000-2000
+20,Outro,Casado,51078435,Superior Incompleto,Asma,20000-50000
+72,Feminino,Divorciado,50427596,Superior Completo,TEPT,20000-50000
+78,Outro,Divorciado,51089348,Superior Completo,Diabetes Tipo 1,50000-100000
+41,Masculino,Divorciado,50583530,Ensino Fundamental,Diabetes Tipo 2,5000-10000
+88,Masculino,Divorciado,50156450,Superior Completo,Ansiedade Generalizada,1000-2000
+63,Masculino,Viúvo,50079779,Superior Incompleto,Burnout,2000-5000
+44,Masculino,Casado,50297974,Pós-Graduação,TDAH,20000-50000
+74,Feminino,Casado,50484957,Ensino Fundamental,Obesidade,5000-10000
+76,Masculino,Casado,51036172,Ensino Médio,Osteoporose,1000-2000
+72,Outro,Solteiro,50226193,Ensino Fundamental,TDAH,50000-100000
+34,Feminino,Viúvo,50347682,Ensino Médio,Depressão,1000-2000
+52,Masculino,Solteiro,50255369,Pós-Graduação,Osteoporose,1000-2000
+50,Masculino,Solteiro,50985655,Ensino Médio,Depressão,2000-5000
+35,Feminino,Solteiro,50190959,Superior Incompleto,Transtorno Bipolar,2000-5000
+80,Masculino,Solteiro,50381364,Ensino Médio,Insuficiência Cardíaca,2000-5000
+26,Masculino,Solteiro,50375545,Ensino Médio,Diabetes Tipo 2,1000-2000
+63,Outro,Solteiro,50395268,Superior Completo,Insuficiência Cardíaca,50000-100000
+43,Outro,Casado,50633765,Superior Completo,Alergia Respiratória,10000-20000
+41,Feminino,Viúvo,50260249,Superior Completo,Depressão,10000-20000
+23,Feminino,Casado,50589425,Pós-Graduação,Burnout,2000-5000
+57,Feminino,Solteiro,50408753,Superior Completo,Enxaqueca Crônica,20000-50000
+49,Feminino,Solteiro,51020219,Superior Completo,Enxaqueca Crônica,5000-10000
+77,Outro,Viúvo,50379465,Ensino Fundamental,Transtorno Bipolar,1000-2000
+48,Outro,Casado,50577798,Ensino Fundamental,Alergia Respiratória,2000-5000
+53,Masculino,Viúvo,50762925,Superior Incompleto,Esquizofrenia,2000-5000
+24,Outro,Solteiro,50489928,Superior Completo,Hipertensão,50000-100000
+55,Feminino,Casado,50584519,Superior Incompleto,Ansiedade Generalizada,2000-5000
+88,Outro,Casado,50434616,Superior Completo,Depressão,20000-50000
+70,Feminino,Casado,50221889,Ensino Médio,TEPT,1000-2000
+24,Masculino,Divorciado,50352497,Superior Completo,Câncer de Pulmão,10000-20000
+80,Feminino,Viúvo,50882676,Superior Incompleto,Asma,20000-50000
+53,Feminino,Solteiro,50275456,Superior Incompleto,Burnout,1000-2000
+76,Masculino,Casado,51020358,Ensino Fundamental,Asma,5000-10000
+87,Masculino,Viúvo,51018054,Superior Incompleto,Asma,2000-5000
+22,Outro,Solteiro,50989797,Superior Incompleto,Diabetes Tipo 1,10000-20000
+79,Feminino,Viúvo,51066777,Pós-Graduação,TEPT,20000-50000
+46,Feminino,Viúvo,50107200,Ensino Fundamental,Diabetes Tipo 1,5000-10000
+25,Masculino,Casado,50736549,Ensino Fundamental,Colesterol Alto,10000-20000
+52,Outro,Divorciado,50846923,Superior Completo,Enxaqueca Crônica,50000-100000
+83,Feminino,Divorciado,50524871,Ensino Médio,Transtorno Bipolar,1000-2000
+69,Masculino,Solteiro,50631419,Superior Completo,Esquizofrenia,50000-100000
+68,Masculino,Viúvo,50729599,Pós-Graduação,Enxaqueca Crônica,10000-20000
+72,Feminino,Viúvo,50565833,Ensino Fundamental,Asma,5000-10000
+30,Outro,Viúvo,50090802,Superior Incompleto,Esquizofrenia,2000-5000
+39,Outro,Divorciado,50123409,Ensino Fundamental,Insuficiência Cardíaca,20000-50000
+29,Masculino,Casado,50480446,Pós-Graduação,TEPT,50000-100000
+90,Feminino,Divorciado,50117858,Superior Completo,Transtorno Bipolar,20000-50000
+67,Feminino,Casado,50301281,Ensino Médio,DPOC,2000-5000
+49,Masculino,Viúvo,51030774,Pós-Graduação,TDAH,5000-10000
+57,Masculino,Casado,50951899,Superior Completo,Câncer de Próstata,10000-20000
+27,Outro,Divorciado,50255494,Ensino Fundamental,DPOC,50000-100000
+81,Feminino,Viúvo,50488628,Ensino Fundamental,Ansiedade Generalizada,5000-10000
+25,Masculino,Solteiro,50482232,Pós-Graduação,Osteoporose,10000-20000
+54,Feminino,Casado,50778791,Ensino Fundamental,Ansiedade Generalizada,20000-50000
+76,Outro,Casado,51009321,Ensino Médio,Câncer de Mama,20000-50000
+65,Outro,Divorciado,50990995,Ensino Fundamental,Ansiedade Generalizada,20000-50000
+69,Feminino,Viúvo,50106434,Superior Incompleto,Depressão,2000-5000
+51,Outro,Viúvo,50496146,Ensino Fundamental,TDAH,10000-20000
+63,Feminino,Viúvo,50497072,Ensino Médio,Diabetes Tipo 2,5000-10000
+88,Feminino,Viúvo,50115629,Pós-Graduação,Alergia Respiratória,5000-10000
+38,Feminino,Solteiro,50586422,Superior Completo,Depressão,10000-20000
+78,Masculino,Casado,50869512,Superior Incompleto,Câncer de Próstata,50000-100000
+88,Outro,Casado,50400796,Superior Incompleto,Colesterol Alto,50000-100000
+57,Feminino,Casado,50680445,Superior Incompleto,DPOC,1000-2000
+49,Feminino,Divorciado,50183534,Superior Completo,TEPT,20000-50000
+65,Feminino,Divorciado,50363823,Superior Completo,Depressão,20000-50000
+58,Feminino,Divorciado,50993064,Pós-Graduação,Câncer de Mama,50000-100000
+85,Feminino,Solteiro,50707497,Superior Incompleto,Enxaqueca Crônica,2000-5000
+88,Feminino,Divorciado,50723584,Ensino Médio,Nenhum,50000-100000
+77,Feminino,Casado,50050300,Ensino Fundamental,Esquizofrenia,5000-10000
+23,Feminino,Casado,51026632,Ensino Fundamental,Câncer de Próstata,50000-100000
+46,Masculino,Casado,50185443,Ensino Médio,Osteoporose,5000-10000
+52,Outro,Viúvo,51054662,Ensino Médio,TDAH,1000-2000
+69,Masculino,Divorciado,50552348,Ensino Médio,Hipertensão,20000-50000
+64,Feminino,Viúvo,50463093,Ensino Fundamental,Burnout,10000-20000
+65,Masculino,Divorciado,50745861,Superior Completo,Hipertensão,50000-100000
+79,Outro,Solteiro,50695624,Superior Completo,Nenhum,1000-2000
+31,Masculino,Divorciado,50328137,Superior Completo,Ansiedade Generalizada,20000-50000
+87,Outro,Solteiro,50067602,Superior Completo,Ansiedade Generalizada,20000-50000
+33,Masculino,Divorciado,50778451,Superior Incompleto,Nenhum,1000-2000
+23,Outro,Viúvo,50877819,Superior Completo,Hipertensão,1000-2000
+48,Outro,Viúvo,50829621,Superior Completo,Colesterol Alto,5000-10000
+71,Outro,Casado,50153610,Ensino Médio,Hipertensão,1000-2000
+64,Outro,Divorciado,50576441,Ensino Fundamental,TDAH,1000-2000
+77,Masculino,Solteiro,50474908,Ensino Médio,Ansiedade Generalizada,50000-100000
+70,Feminino,Casado,51008288,Superior Completo,Insuficiência Cardíaca,10000-20000
+48,Masculino,Solteiro,50832081,Superior Incompleto,Hipertensão,20000-50000
+75,Outro,Solteiro,51033498,Pós-Graduação,Alergia Respiratória,2000-5000
+23,Feminino,Viúvo,50419430,Pós-Graduação,Câncer de Pulmão,20000-50000
+90,Masculino,Viúvo,50836072,Superior Incompleto,Burnout,5000-10000
+35,Masculino,Viúvo,50755226,Pós-Graduação,TEPT,2000-5000
+55,Feminino,Casado,50308523,Pós-Graduação,TEPT,20000-50000
+74,Feminino,Casado,50264426,Pós-Graduação,Obesidade,50000-100000
+84,Outro,Viúvo,50944148,Superior Incompleto,Burnout,20000-50000
+84,Feminino,Solteiro,50793456,Ensino Fundamental,Diabetes Tipo 2,2000-5000
+43,Masculino,Viúvo,50153474,Ensino Fundamental,Hipertensão,50000-100000
+25,Masculino,Casado,50718025,Superior Incompleto,Burnout,50000-100000
+61,Masculino,Casado,50120004,Ensino Fundamental,TEPT,20000-50000
+32,Outro,Casado,50361255,Pós-Graduação,Alergia Respiratória,5000-10000
+72,Masculino,Divorciado,50650521,Superior Incompleto,Asma,10000-20000
+87,Feminino,Divorciado,50992526,Pós-Graduação,Transtorno Bipolar,1000-2000
+69,Feminino,Divorciado,50189175,Ensino Fundamental,TEPT,50000-100000
+33,Outro,Viúvo,50207879,Ensino Médio,TDAH,10000-20000
+58,Masculino,Divorciado,50809430,Superior Incompleto,Depressão,1000-2000
+22,Outro,Solteiro,50725601,Superior Incompleto,DPOC,2000-5000
+34,Outro,Solteiro,50838006,Ensino Médio,Câncer de Mama,10000-20000
+19,Outro,Casado,51017158,Superior Completo,Hipertensão,10000-20000
+58,Outro,Casado,50550758,Ensino Fundamental,Obesidade,10000-20000
+44,Outro,Casado,50735575,Pós-Graduação,Câncer de Pulmão,5000-10000
+63,Feminino,Divorciado,50374690,Pós-Graduação,Esquizofrenia,10000-20000
+89,Outro,Casado,51011372,Superior Incompleto,Nenhum,50000-100000
+60,Feminino,Viúvo,50374139,Ensino Médio,Artrite,50000-100000
+89,Masculino,Solteiro,50747116,Pós-Graduação,Esquizofrenia,2000-5000
+29,Outro,Casado,50236036,Superior Incompleto,Burnout,20000-50000
+74,Outro,Viúvo,50824354,Pós-Graduação,Câncer de Pulmão,1000-2000
+26,Feminino,Casado,50772245,Ensino Médio,Depressão,2000-5000
+59,Masculino,Casado,50613659,Ensino Médio,Câncer de Pulmão,10000-20000
+78,Masculino,Solteiro,50115958,Ensino Médio,Asma,1000-2000
+77,Masculino,Divorciado,50086127,Ensino Fundamental,Obesidade,1000-2000
+80,Feminino,Casado,50040068,Ensino Médio,Câncer de Pulmão,2000-5000
+87,Outro,Viúvo,50069990,Ensino Médio,Esquizofrenia,20000-50000
+28,Masculino,Divorciado,50175551,Superior Completo,Nenhum,50000-100000
+82,Masculino,Casado,50968450,Superior Incompleto,Osteoporose,20000-50000
+61,Masculino,Casado,50851914,Pós-Graduação,Câncer de Mama,10000-20000
+75,Outro,Viúvo,50587139,Ensino Fundamental,DPOC,50000-100000
+20,Masculino,Divorciado,50245954,Superior Incompleto,Nenhum,1000-2000
+88,Masculino,Casado,50983817,Pós-Graduação,Hipertensão,10000-20000
+46,Outro,Viúvo,50775539,Ensino Fundamental,Diabetes Tipo 2,20000-50000
+75,Masculino,Solteiro,50143655,Superior Incompleto,Câncer de Pulmão,5000-10000
+39,Masculino,Divorciado,50226455,Superior Completo,Câncer de Pulmão,2000-5000
+82,Masculino,Divorciado,50235708,Pós-Graduação,Diabetes Tipo 1,10000-20000
+86,Feminino,Casado,50299700,Pós-Graduação,Câncer de Próstata,10000-20000
+46,Feminino,Casado,50310543,Superior Incompleto,TDAH,50000-100000
+82,Feminino,Divorciado,50169543,Ensino Médio,Diabetes Tipo 2,20000-50000
+86,Outro,Divorciado,50876507,Pós-Graduação,Hipertensão,50000-100000
+62,Feminino,Solteiro,50503803,Superior Incompleto,TEPT,20000-50000
+86,Outro,Viúvo,50331660,Ensino Fundamental,Artrite,10000-20000
+82,Masculino,Divorciado,50594892,Superior Completo,Hipertensão,5000-10000
+51,Feminino,Solteiro,50444619,Ensino Fundamental,Burnout,2000-5000
+66,Masculino,Casado,50707928,Superior Incompleto,DPOC,20000-50000
+54,Masculino,Casado,50364814,Superior Incompleto,Câncer de Mama,10000-20000
+70,Feminino,Divorciado,50549306,Ensino Fundamental,Insuficiência Cardíaca,1000-2000
+27,Feminino,Divorciado,50198084,Ensino Médio,Osteoporose,2000-5000
+70,Feminino,Solteiro,50186220,Pós-Graduação,DPOC,20000-50000
+32,Outro,Solteiro,50898748,Superior Completo,Alergia Respiratória,10000-20000
+78,Outro,Viúvo,51005985,Pós-Graduação,Câncer de Mama,5000-10000
+50,Outro,Solteiro,50230018,Superior Completo,Hipertensão,2000-5000
+50,Outro,Casado,50388622,Superior Completo,Hipertensão,2000-5000
+47,Feminino,Solteiro,50431124,Superior Incompleto,Artrite,20000-50000
+34,Feminino,Solteiro,50298406,Superior Completo,Esquizofrenia,10000-20000
+34,Masculino,Solteiro,50193289,Ensino Fundamental,Nenhum,5000-10000
+60,Outro,Casado,50280318,Ensino Médio,Depressão,1000-2000
+59,Feminino,Divorciado,50506892,Superior Incompleto,Osteoporose,1000-2000
+65,Outro,Solteiro,50969587,Superior Completo,Enxaqueca Crônica,1000-2000
+90,Masculino,Casado,50391021,Superior Completo,Depressão,5000-10000
+27,Masculino,Solteiro,50522091,Pós-Graduação,Alergia Respiratória,50000-100000
+77,Feminino,Solteiro,50623704,Superior Incompleto,Enxaqueca Crônica,20000-50000
+38,Masculino,Viúvo,50919916,Pós-Graduação,Câncer de Mama,5000-10000
+26,Outro,Divorciado,50055175,Ensino Médio,Obesidade,5000-10000
+40,Outro,Viúvo,50663877,Pós-Graduação,Hipertensão,5000-10000
+25,Outro,Casado,50951460,Superior Incompleto,Colesterol Alto,2000-5000
+29,Outro,Divorciado,50312180,Superior Incompleto,Esquizofrenia,2000-5000
+90,Feminino,Solteiro,50460123,Ensino Fundamental,Depressão,2000-5000
+45,Feminino,Solteiro,50336272,Superior Incompleto,Colesterol Alto,10000-20000
+72,Masculino,Casado,50923153,Superior Incompleto,TDAH,5000-10000
+40,Masculino,Divorciado,50824443,Superior Incompleto,Transtorno Bipolar,50000-100000
+51,Feminino,Divorciado,50931514,Superior Completo,Ansiedade Generalizada,20000-50000
+83,Masculino,Solteiro,50337421,Superior Completo,Hipertensão,1000-2000
+25,Outro,Viúvo,50237782,Superior Completo,Insuficiência Cardíaca,10000-20000
+64,Masculino,Viúvo,50025080,Superior Completo,Osteoporose,10000-20000
+23,Feminino,Casado,50139348,Superior Incompleto,Alergia Respiratória,2000-5000
+52,Masculino,Casado,50291075,Superior Completo,Enxaqueca Crônica,5000-10000
+32,Masculino,Divorciado,50146380,Superior Incompleto,Câncer de Pulmão,5000-10000
+47,Outro,Viúvo,50690413,Ensino Fundamental,Ansiedade Generalizada,2000-5000
+62,Masculino,Solteiro,50380522,Ensino Fundamental,DPOC,1000-2000
+18,Outro,Solteiro,50349403,Pós-Graduação,Ansiedade Generalizada,10000-20000
+68,Masculino,Solteiro,50699572,Pós-Graduação,Câncer de Pulmão,5000-10000
+70,Masculino,Viúvo,50135125,Superior Completo,Insuficiência Cardíaca,1000-2000
+81,Outro,Casado,50401908,Pós-Graduação,Transtorno Bipolar,1000-2000
+51,Feminino,Divorciado,50670901,Pós-Graduação,Transtorno Bipolar,2000-5000
+39,Masculino,Divorciado,50772764,Ensino Fundamental,Artrite,50000-100000
+23,Feminino,Divorciado,50942217,Ensino Fundamental,DPOC,10000-20000
+50,Masculino,Casado,50569991,Superior Completo,Alergia Respiratória,2000-5000
+65,Masculino,Viúvo,50912391,Pós-Graduação,Obesidade,5000-10000
+40,Outro,Casado,50767225,Ensino Fundamental,DPOC,2000-5000
+58,Masculino,Viúvo,50358767,Ensino Médio,Burnout,2000-5000
+59,Masculino,Solteiro,50194055,Superior Completo,Burnout,50000-100000
+68,Outro,Viúvo,50844175,Pós-Graduação,Ansiedade Generalizada,5000-10000
+78,Masculino,Viúvo,50333459,Ensino Fundamental,TDAH,20000-50000
+76,Feminino,Casado,50747024,Ensino Médio,Nenhum,20000-50000
+71,Outro,Divorciado,50251394,Ensino Médio,TDAH,1000-2000
+52,Feminino,Viúvo,50602929,Superior Completo,Enxaqueca Crônica,50000-100000
+87,Masculino,Solteiro,50283243,Superior Completo,Osteoporose,5000-10000
+36,Outro,Solteiro,50329593,Superior Completo,Alergia Respiratória,2000-5000
+22,Outro,Casado,50171539,Ensino Médio,Diabetes Tipo 1,10000-20000
+33,Feminino,Solteiro,50453476,Pós-Graduação,Nenhum,5000-10000
+72,Outro,Casado,51007424,Superior Incompleto,Asma,50000-100000
+37,Feminino,Viúvo,50523416,Ensino Fundamental,Ansiedade Generalizada,20000-50000
+25,Masculino,Casado,50720634,Ensino Médio,Câncer de Próstata,10000-20000
+42,Feminino,Viúvo,50093811,Superior Incompleto,Burnout,2000-5000
+71,Outro,Solteiro,50611606,Superior Completo,Esquizofrenia,50000-100000
+35,Feminino,Viúvo,50399538,Superior Completo,Osteoporose,5000-10000
+72,Masculino,Solteiro,50381931,Superior Completo,TEPT,10000-20000
+41,Feminino,Solteiro,50427812,Superior Incompleto,Osteoporose,10000-20000
+79,Outro,Viúvo,50131614,Pós-Graduação,TDAH,10000-20000
+33,Outro,Casado,50452462,Ensino Fundamental,Transtorno Bipolar,20000-50000
+19,Masculino,Casado,50796746,Ensino Fundamental,Diabetes Tipo 1,20000-50000
+71,Feminino,Viúvo,50198890,Pós-Graduação,Nenhum,20000-50000
+48,Outro,Viúvo,51030995,Superior Completo,Nenhum,2000-5000
+24,Outro,Viúvo,50903820,Superior Incompleto,TDAH,1000-2000
+41,Feminino,Solteiro,50146891,Superior Completo,Insuficiência Cardíaca,5000-10000
+90,Masculino,Casado,50196847,Ensino Fundamental,Nenhum,10000-20000
+85,Feminino,Casado,50605310,Superior Completo,Depressão,10000-20000
+43,Outro,Viúvo,50899547,Ensino Fundamental,TEPT,20000-50000
+65,Outro,Divorciado,50607520,Pós-Graduação,Nenhum,50000-100000
+62,Masculino,Viúvo,50611250,Pós-Graduação,Transtorno Bipolar,1000-2000
+35,Masculino,Solteiro,50456954,Pós-Graduação,Osteoporose,5000-10000
+54,Feminino,Viúvo,51098012,Superior Incompleto,Hipertensão,5000-10000
+23,Feminino,Divorciado,50907447,Superior Completo,Diabetes Tipo 1,5000-10000
+52,Outro,Viúvo,50780534,Ensino Médio,Câncer de Mama,10000-20000
+41,Feminino,Solteiro,51042547,Superior Incompleto,DPOC,1000-2000
+43,Outro,Viúvo,50892685,Superior Completo,TEPT,5000-10000
+73,Outro,Divorciado,50840778,Superior Completo,Transtorno Bipolar,2000-5000
+60,Masculino,Viúvo,50758955,Pós-Graduação,Câncer de Próstata,5000-10000
+30,Feminino,Casado,50924936,Superior Incompleto,Câncer de Mama,1000-2000
+39,Feminino,Viúvo,50031055,Superior Incompleto,Obesidade,2000-5000
+72,Outro,Divorciado,50498104,Ensino Fundamental,Câncer de Próstata,50000-100000
+35,Outro,Viúvo,50998642,Superior Incompleto,Alergia Respiratória,50000-100000
+65,Feminino,Solteiro,50101298,Ensino Fundamental,DPOC,1000-2000
+65,Outro,Solteiro,50476352,Pós-Graduação,Hipertensão,1000-2000
+29,Masculino,Solteiro,50522789,Superior Incompleto,Obesidade,50000-100000
+35,Outro,Casado,50440378,Ensino Médio,Asma,2000-5000
+27,Masculino,Solteiro,50758130,Pós-Graduação,Artrite,10000-20000
+23,Outro,Viúvo,50889196,Superior Completo,Diabetes Tipo 2,50000-100000
+50,Masculino,Viúvo,50062710,Superior Incompleto,DPOC,5000-10000
+63,Feminino,Casado,51010120,Pós-Graduação,Insuficiência Cardíaca,50000-100000
+20,Masculino,Casado,50352117,Ensino Fundamental,Asma,2000-5000
+56,Masculino,Viúvo,51068816,Superior Incompleto,Hipertensão,50000-100000
+90,Masculino,Divorciado,50418763,Ensino Fundamental,Enxaqueca Crônica,20000-50000
+31,Outro,Divorciado,50508570,Ensino Médio,Depressão,1000-2000
+53,Outro,Viúvo,50173102,Superior Completo,Enxaqueca Crônica,2000-5000
+74,Feminino,Casado,50476580,Superior Completo,DPOC,2000-5000
+88,Masculino,Solteiro,50546619,Superior Completo,Câncer de Mama,1000-2000
+86,Feminino,Casado,50354074,Ensino Fundamental,Hipertensão,2000-5000
+90,Masculino,Casado,50596440,Ensino Médio,Enxaqueca Crônica,5000-10000
+72,Outro,Casado,50992892,Ensino Médio,Nenhum,10000-20000
+50,Feminino,Casado,50791191,Superior Incompleto,Diabetes Tipo 1,1000-2000
+81,Outro,Solteiro,50545023,Ensino Médio,Burnout,2000-5000
+28,Feminino,Casado,50063868,Superior Completo,Artrite,5000-10000
+21,Masculino,Solteiro,51099778,Superior Completo,Transtorno Bipolar,10000-20000
+34,Masculino,Solteiro,50809847,Superior Completo,Câncer de Mama,1000-2000
+34,Masculino,Casado,51053316,Superior Incompleto,Diabetes Tipo 2,50000-100000
+80,Feminino,Casado,50916650,Ensino Médio,Insuficiência Cardíaca,2000-5000
+66,Masculino,Viúvo,50392106,Ensino Médio,Transtorno Bipolar,2000-5000
+63,Feminino,Solteiro,50000469,Superior Completo,Artrite,20000-50000
+67,Feminino,Solteiro,50309440,Ensino Fundamental,TDAH,5000-10000
+30,Feminino,Casado,50128524,Ensino Médio,Osteoporose,10000-20000
+18,Feminino,Viúvo,50689938,Superior Incompleto,Transtorno Bipolar,2000-5000
+32,Outro,Viúvo,50778189,Superior Incompleto,Diabetes Tipo 1,10000-20000
+20,Feminino,Solteiro,50056068,Superior Incompleto,Depressão,5000-10000
+58,Feminino,Solteiro,50836413,Superior Completo,Diabetes Tipo 2,20000-50000
+18,Masculino,Viúvo,50484019,Pós-Graduação,DPOC,10000-20000
+73,Masculino,Casado,50634731,Pós-Graduação,Colesterol Alto,1000-2000
+70,Masculino,Divorciado,50020983,Ensino Médio,Insuficiência Cardíaca,2000-5000
+73,Outro,Divorciado,50908542,Ensino Médio,Obesidade,20000-50000
+18,Feminino,Solteiro,50216330,Superior Completo,Alergia Respiratória,10000-20000
+22,Feminino,Divorciado,50386983,Superior Incompleto,Transtorno Bipolar,1000-2000
+27,Feminino,Casado,50357295,Superior Completo,Artrite,10000-20000
+21,Feminino,Solteiro,50772551,Superior Completo,Enxaqueca Crônica,10000-20000
+29,Masculino,Solteiro,50013345,Ensino Médio,Câncer de Mama,1000-2000
+51,Masculino,Solteiro,50230260,Superior Incompleto,TEPT,2000-5000
+84,Outro,Viúvo,50757326,Superior Incompleto,Câncer de Próstata,50000-100000
+51,Masculino,Divorciado,50635749,Ensino Fundamental,Enxaqueca Crônica,5000-10000
+34,Feminino,Viúvo,50176304,Superior Completo,Diabetes Tipo 2,5000-10000
+86,Outro,Casado,50444243,Ensino Fundamental,Câncer de Próstata,1000-2000
+33,Masculino,Casado,50805142,Superior Completo,Diabetes Tipo 1,5000-10000
+76,Feminino,Solteiro,50784138,Ensino Médio,Insuficiência Cardíaca,2000-5000
+58,Feminino,Viúvo,50825558,Ensino Fundamental,Alergia Respiratória,50000-100000
+19,Masculino,Casado,50761494,Pós-Graduação,TEPT,10000-20000
+57,Feminino,Solteiro,50656299,Ensino Fundamental,TEPT,10000-20000
+18,Outro,Divorciado,51014134,Superior Incompleto,Insuficiência Cardíaca,20000-50000
+88,Outro,Viúvo,50045108,Ensino Fundamental,Esquizofrenia,10000-20000
+65,Masculino,Divorciado,51096563,Ensino Fundamental,Osteoporose,1000-2000
+59,Masculino,Solteiro,50897122,Superior Incompleto,Depressão,50000-100000
+50,Feminino,Solteiro,50361006,Superior Incompleto,Obesidade,5000-10000
+21,Masculino,Divorciado,50823537,Ensino Fundamental,Alergia Respiratória,10000-20000
+32,Outro,Solteiro,51095984,Ensino Fundamental,Artrite,50000-100000
+40,Feminino,Viúvo,50714495,Pós-Graduação,Insuficiência Cardíaca,10000-20000
+35,Masculino,Viúvo,50533807,Ensino Fundamental,Câncer de Mama,20000-50000
+43,Feminino,Viúvo,50037258,Ensino Médio,Insuficiência Cardíaca,2000-5000
+18,Outro,Divorciado,50686504,Superior Completo,Diabetes Tipo 1,10000-20000
+79,Outro,Solteiro,50947978,Superior Completo,Diabetes Tipo 2,50000-100000
+20,Feminino,Solteiro,50014355,Superior Completo,Ansiedade Generalizada,50000-100000
+65,Masculino,Solteiro,50059704,Superior Completo,Hipertensão,10000-20000
+49,Feminino,Divorciado,50078620,Ensino Fundamental,Nenhum,50000-100000
+83,Outro,Divorciado,50137633,Superior Incompleto,Esquizofrenia,1000-2000
+86,Feminino,Solteiro,50866461,Ensino Fundamental,Colesterol Alto,5000-10000
+78,Outro,Casado,51093410,Superior Incompleto,Ansiedade Generalizada,1000-2000
+77,Masculino,Casado,50151970,Ensino Fundamental,Diabetes Tipo 2,50000-100000
+35,Feminino,Solteiro,50972318,Superior Incompleto,Colesterol Alto,1000-2000
+44,Masculino,Casado,50808431,Ensino Médio,Asma,2000-5000
+47,Outro,Casado,50154439,Superior Incompleto,Esquizofrenia,1000-2000
+56,Masculino,Solteiro,50286286,Ensino Médio,Osteoporose,2000-5000
+65,Outro,Divorciado,50607814,Ensino Médio,Enxaqueca Crônica,10000-20000
+25,Masculino,Viúvo,50091580,Ensino Médio,Hipertensão,5000-10000
+88,Feminino,Viúvo,51034387,Ensino Fundamental,Enxaqueca Crônica,5000-10000
+79,Masculino,Solteiro,50082831,Ensino Médio,Hipertensão,2000-5000
+85,Outro,Casado,50523558,Ensino Fundamental,Osteoporose,5000-10000
+74,Feminino,Viúvo,50094885,Superior Completo,Transtorno Bipolar,2000-5000
+26,Feminino,Divorciado,51020290,Pós-Graduação,Enxaqueca Crônica,10000-20000
+20,Masculino,Viúvo,50941456,Ensino Fundamental,Câncer de Mama,50000-100000
+36,Feminino,Viúvo,50136371,Superior Completo,Nenhum,2000-5000

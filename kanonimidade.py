@@ -3,8 +3,6 @@ import numpy as np
 from pycanon import anonymity 
 import random
 
-# 20 20 21 23 25 33 35 36 44
-# 2020 212325  
 def agrupar_e_anonimizar(dados, k, coluna_faixa='Idade', coluna_cep='CEP'):
     df = dados.copy()
     df_anonimizado = pd.DataFrame()
@@ -43,7 +41,7 @@ def agrupar_e_anonimizar(dados, k, coluna_faixa='Idade', coluna_cep='CEP'):
                 suprimidos.append(grupo_suprimido)
                 continue
             
-            # >>>>> Padronizar Estado_Civil <<<<<
+            # Padronizar Estado_Civil
             modo_estado_civil = subgrupo['Estado_Civil'].mode()
             if not modo_estado_civil.empty:
                 estado_padrao = modo_estado_civil.iloc[0]  # Pega o mais frequente (ou qualquer um em caso de empate)
@@ -57,7 +55,6 @@ def agrupar_e_anonimizar(dados, k, coluna_faixa='Idade', coluna_cep='CEP'):
         df_anonimizado = pd.concat([df_anonimizado, df_suprimido], ignore_index=True)
 
     return df_anonimizado.reset_index(drop=True)
-
 
 def mascarar_cep(cep):
     cep_str = ''.join(filter(str.isdigit, str(cep)))
@@ -131,7 +128,7 @@ def linkage_attack_completo(original, anonimizado, quasi_ids):
     return reid_df, taxa
 
 # Exemplo de uso
-dados = pd.read_csv('dataset_privado.csv')
+dados = pd.read_csv('dataset_privado_.csv')
 
 #Suprimir informações pessoais
 dados['Nome'] = '**'
@@ -153,5 +150,5 @@ k = 10
 dados_anon = agrupar_e_anonimizar(dados, k)
 dados_anon.to_csv('dados_anonimizados.csv', index=False)
 
-dados_publicos = pd.read_csv('dataset_publico.csv')
+dados_publicos = pd.read_csv('dataset_publico_.csv')
 linkage_attack_completo(dados_publicos, dados_anon, quasi_ids)
